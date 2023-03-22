@@ -62,3 +62,5 @@ GymPass style app.
 - Github Actions
 
 # CD: Continuous Delivery/Deployment
+
+- Pipeline
